@@ -1,8 +1,5 @@
-# Bitation Project Requirements
+PySide6==6.4.2
+Pygments
+# Other necessary packages
 
-This file lists all Python dependencies needed for the Bitation project, including PySide6 and any other required libraries.
-
-```
-PySide6
-# Add other required libraries here
-```
+# Add additional libraries as needed
