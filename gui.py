@@ -1,0 +1,1 @@
+This file implements the professional GUI application using PySide6 with custom title bar, rounded corners, and professional styling inspired by Apple's design.
