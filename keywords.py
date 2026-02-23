@@ -8,7 +8,7 @@ It includes comprehensive keyword mappings for control flow, data types, functio
 # Control Flow Mappings
 if: "si"
 elif: "si a"
-else: "autre"
+else: "oswa"
 for: "pou"
 while: "pandanke"
 
